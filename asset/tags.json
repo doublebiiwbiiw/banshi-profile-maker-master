@@ -1,0 +1,137 @@
+[
+	
+	{
+		"meta": {
+			"title": "ภาควิชา/หลักสูตรในคณะพาณิชยศาสตร์และการบัญชี",
+			"description": "Lorem ipsum",
+			"class": "col-md-6"
+		},
+		"tags": [
+			{
+				"id": "stat",
+				"title": "#TEAMSTAT",
+				"description": "(สถิติศาสตร์)"
+			},
+			{
+				"id": "bit",
+				"title": "#TEAMBIT",
+				"description": "(เทคโนโลยีสารสนเทศเพื่อธุรกิจ)"
+			},
+			{
+				"id": "insu",
+				"title": "#TEAMINSURANCE",
+				"description": "(ประกันภัย)"
+			},
+			{
+				"id": "app",
+				"title": "#TEAMAPPLY",
+				"description": "(สถิติ-ประยุกต์)"
+			},
+			{
+				"id": "math",
+				"title": "#TEAMMATH",
+				"description": "(สถิติ-สถิติ)"
+			},
+			{
+				"id": "audit",
+				"title": "#TEAMAUDIT",
+				"description": "(บัญชีฯ)"
+			},
+			{
+				"id": "fin",
+				"title": "#TEAMFINANCE",
+				"description": "(การธนาคารและการเงิน)"
+			},
+			{
+				"id": "logis",
+				"title": "#TEAMLOGIS",
+				"description": "(การจัดการโลจิสติกส์ระหว่างประเทศ)"
+			},
+			{
+				"id": "mkt",
+				"title": "#TEAMMARKET",
+				"description": "(การตลาด)"
+			},
+			{
+				"id": "mis",
+				"title": "#TEAMMIS",
+				"description": "(ระบบสารสนเทศทางการจัดการ)"
+			},
+			{
+				"id": "ent",
+				"title": "#TEAMENTRE",
+				"description": "(การจัดการเพื่อเป็นผู้ประกอบการธุรกิจ)"
+			},
+			
+		]
+	},
+	{
+		"meta": {
+			"title": "กรุ๊ปต่างๆในคณะพาณิชยศาสตร์และการบัญชี",
+			"description": "Lorem ipsum",
+			"class": "col-md-4"
+		},
+		"tags": [
+			{
+				"id": "a1",
+				"title": "#TEAMก1",
+				"description": "(กรุ๊ปก1)"
+			},
+			{
+				"id": "a2",
+				"title": "#TEAMก2",
+				"description": "(กรุ๊ปก2)"
+			},
+			{
+				"id": "a3",
+				"title": "#TEAMก3",
+				"description": "(กรุ๊ปก3)"
+			},
+			{
+				"id": "a4",
+				"title": "#TEAMก4",
+				"description": "(คกรุ๊ปก4)"
+			},
+			{
+				"id": "a5",
+				"title": "#TEAMก5",
+				"description": "(กรุ๊ปก5)"
+			},
+			{
+				"id": "b1",
+				"title": "#TEAMข1",
+				"description": "(กรุ๊ปข1)"
+			},
+			{
+				"id": "b2",
+				"title": "#TEAMข2",
+				"description": "(กรุ๊ปข2)"
+			},
+			{
+				"id": "b3",
+				"title": "#TEAMข3",
+				"description": "(กรุ๊ปข3)"
+			},
+			{
+				"id": "b4",
+				"title": "#TEAMข4",
+				"description": "(กรุ๊ปข4)"
+			}
+			{
+				"id": "b5",
+				"title": "#TEAMข5",
+				"description": "(กรุ๊ปข5)"
+			}
+			{
+				"id": "sd",
+				"title": "#TEAMSD",
+				"description": "(กรุ๊ปสมทบ)"
+			}
+			{
+				"id": "st",
+				"title": "#TEAMST",
+				"description": "(กรุ๊ปสแตท)"
+			}
+		]
+	}
+]
